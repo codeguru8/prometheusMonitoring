@@ -1,1 +1,1 @@
-# prometheusMonitoring
+# prometheus-monitoring
